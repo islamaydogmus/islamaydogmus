@@ -1,4 +1,5 @@
-### Hi there 👋
+### ✨ Mechatronics Engineering Undergraduate at İzmir Kâtip Çelebi University.
+  An excited individual about potential of robotics. Aiming to become a Robotics Software Engineer in R&D departments of the leading companies. Wants to gain first-hand experience on building applications and designing robots in Robotic R&D. Desires to experience implementing machine learning and machine vision on robots. Tries to share his technical skills and passion to work and be able to utilize his knowledge on data science on the company. A chess and history enthusiast who tries to improve his grasp on both.
 
 <!--
 **islamaydogmus/islamaydogmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
