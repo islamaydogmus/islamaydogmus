@@ -5,6 +5,9 @@
   
  🔭 I'm trying to learn the building blocks of modern technology and governing laws of the nature in the form of natural sciences. I enjoy researching natural sciences such as physics, mathematics, probability, and statistics, as well as information technologies such as computer science, data science, and digital electronics.  
 
+<a href="https://www.linkedin.com/in/islamaydoğmuş">Linkedin</a>
+              
+
 <!--
 **islamaydogmus/islamaydogmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
