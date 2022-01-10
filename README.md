@@ -1,4 +1,4 @@
-### ✨ Mechatronics Engineering Undergraduate and Junior Data Scientist.
+### ✨ Mechatronics Engineering Undergraduate
  📫 I am a mechatronics engineering undergraduate who has developed himself at data science. I've improved myself on data cleaning, web scraping, data processing, data analysis, computer science, machine learning, and databases and still keep improving. I tried to prove my abilities on them by utilizing personal sized projects and various certificates from varied sources. I've carried myself a little further than university courses intended on SolidWorks CAD, engineering mechanics, and digital electronic circuit design.  
   
  💬 I'm a curious individual who always learn what intrigues myself the most. Data science provides me with beautiful opportunity of satisfying my curiosity in the form of data analysis which lets me discover the information that it hides from us. I'm carrying my progress towards data science for that purpose.  
