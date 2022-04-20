@@ -1,7 +1,7 @@
 ### ✨ Mechatronics Engineering Undergraduate
- 📫 I am a mechatronics engineering undergraduate who has developed himself at data science. I've improved myself on data cleaning, web scraping, data processing, data analysis, computer science, machine learning, and databases and still keep improving. I tried to prove my abilities on them by utilizing personal sized projects and various certificates from varied sources. I've carried myself a little further than university courses intended on SolidWorks CAD, engineering mechanics, and digital electronic circuit design.  
+ 📫 I am a mechatronics engineering undergraduate who is aiming to become a control systems engineer. I Always believe that strong theoretical background of the subject is what makes all of the advanced projects possible but I also know that practical knowledge is what concludes the project. I also believe that hands-on experience is the best method of learning, and because of that; I always try to reinforce what I learned by making mini-scale projects by himself. 
   
- 💬 I'm a curious individual who always learn what intrigues myself the most. Data science provides me with beautiful opportunity of satisfying my curiosity in the form of data analysis which lets me discover the information that it hides from us. I'm carrying my progress towards data science for that purpose.  
+ 💬 I'm a very curious individual who’s always try to grasp the intuition of the phenomena that he’s encountering in my life.  
   
  🔭 I'm trying to learn the building blocks of modern technology and governing laws of the nature in the form of natural sciences. I enjoy researching natural sciences such as physics, mathematics, probability, and statistics, as well as information technologies such as computer science, data science, and digital electronics.  
 
