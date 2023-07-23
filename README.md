@@ -1,9 +1,4 @@
-### ✨ Mechatronics Engineering Undergraduate
- 📫 I am a mechatronics engineering undergraduate who is aiming to become a control systems engineer. I Always believe that strong theoretical background of the subject is what makes all of the advanced projects possible but I also know that practical knowledge is what concludes the project. I also believe that hands-on experience is the best method of learning, and because of that; I always try to reinforce what I learned by making mini-scale projects by himself. 
-  
- 💬 I'm a very curious individual who’s always try to grasp the intuition of the phenomena that he’s encountering in my life.  
-  
- 🔭 I'm trying to learn the building blocks of modern technology and governing laws of the nature in the form of natural sciences. I enjoy researching natural sciences such as physics, mathematics, probability, and statistics, as well as information technologies such as computer science, data science, and digital electronics.  
+### ✨ Mechatronics Engineer
 
 <a href="https://www.linkedin.com/in/islamaydoğmuş">Linkedin</a>
               
